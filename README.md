@@ -21,7 +21,7 @@ To use the JavaScript Password Generator, follow these steps:
 1. **Clone the Repository:** Clone this repository to your local machine:
 
   ```  
-    git clone https://github.com/your-username/password-generator-app.git
+    git clone https://github.com/nomaanulhasan/JavaScript-Password-Generator.git
   ```
 
 2. **Navigate to the Directory:** Move to the directory where you cloned the repository:
